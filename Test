@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Profil joueur d'échecs – Nathan Couedel</title>
+  </head>
+  <body>
+    <h1>Nathan Couedel – Joueur d’échecs</h1>
+    <p>Voici mon profil Chess.com : 
+      <a href="https://www.chess.com/member/nathan_couedel" target="_blank">
+        https://www.chess.com/member/nathan_couedel
+      </a>
+    </p>
+    <p> J'éssaie d'atteindre les 2000 elo FIDE, n'hésitez pas à venir me défier
+  </body>
+</html>
